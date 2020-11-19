@@ -10,4 +10,4 @@ deep_fake_detection project
 
 
 
-![성적](private 성적.png)
+![private 성적](private 성적.png)
