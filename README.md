@@ -8,3 +8,6 @@ deep_fake_detection project
 주관: 데이콘
 후원: 한국정보화진흥원(NIA)
 
+
+
+![성적](private 성적.png)
